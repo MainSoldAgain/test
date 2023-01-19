@@ -14,6 +14,8 @@ public class TestSpring {
                 SpringConfig.class
         );
 
+        // JOJOOJOJOJJOJOJJOJJOOJOJOJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOJJJJJJJJJJOOOOOOOOOOOOOOOOOOOOOOOO
+
 //        MusicPlayer musicPlayer = context.getBean("musicPlayer",MusicPlayer.class);
 //
 //        musicPlayer.playMusic();
